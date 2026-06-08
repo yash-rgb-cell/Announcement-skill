@@ -1,0 +1,25 @@
+{
+  "announcement_code": "EAS",
+  "report_date": "2026-05-26",
+  "report_type": "Announcement",
+  "info_type_buckets": {
+    "News & Digital Articles": ["news"],
+    "Social Media": ["social media", "social"],
+    "Broadcast": ["broadcast"],
+    "Podcasts": ["podcast", "podcasts"]
+  },
+  "sentiment_segments": {"News": ["News & Digital Articles", "Broadcast"], "Social": ["Social Media"]},
+  "km_method": "outlets",
+  "km_prioritized_sources": ["New York Times", "BBC", "Dow Jones Newswires", "Barron's", "STAT News", "Fierce Biotech", "Endpoints News", "BioPharma Dive", "Scrip", "FirstWord Pharma", "The Pharma Letter", "BioSpace", "Daily Mail", "New York Post"],
+  "key_messages": [
+    {"message": "Results showed encouraging evidence for VERVE-102 to be a one-time treatment",
+     "keywords": ["one-time", "one and done", "one-and-done", "single infusion", "single dose", "single shot", "one infusion", "one-shot"]},
+    {"message": "VERVE-102 is designed to durably turn off the PCSK9 gene",
+     "keywords": ["pcsk9", "gene editing", "gene-editing", "base editing", "base editor", "turn off", "durabl"]},
+    {"message": "Lilly plans to begin enrolling the Phase 2 clinical study",
+     "keywords": ["phase 2", "phase ii", "phase two", "phase-2"]},
+    {"message": "VERVE-102 is designed to mimic the protective effect of naturally occurring loss-of-function variants in PCSK9",
+     "keywords": ["loss-of-function", "loss of function", "naturally occurring", "protective effect", "mimic"]}
+  ],
+  "competitors": []
+}
